@@ -1,4 +1,5 @@
 ---
+layout: material
 hide:
   - navigation
   - toc
