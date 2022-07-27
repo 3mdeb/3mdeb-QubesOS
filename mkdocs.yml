@@ -2,14 +2,13 @@ site_name: QubesOS 3mdeb minisummit
 site_url: https://qubesos.3mdeb.com
 theme:
     name: material
-    favicon: images/favicon.png
-    logo: images/dasharo-logo.png
+    favicon: images/qubes-logo.png
+    logo: images/qubes-logo.png
 extra:
     social:
         - icon: fontawesome/brands/twitter
-          link: https://twitter.com/dasharo_com
-          name: Dasharo on Twitter
-copyright: Sponsored by <a href="https://docs.dasharo.com"><i>Dasharo</i></a>
+          link: https://twitter.com/3mdeb_com
+          name: 3mdeb on Twitter
 extra_css:
     - stylesheets/extra.css
 markdown_extensions:
