@@ -17,7 +17,7 @@ hide:
   <b>CFP Due:</b> 29th August 2022
 </h2>
 <h2 align="left" style="margin-top: 0px;">
-  <b>Acceptance Due:</b> 31th August 2022
+  <b>Notification of Acceptance:</b> 31th August 2022
 </h2>
 <h2 align="left" style="margin-top: 0px;">
   <b>Conference Date:</b> 9th - 11th September 2022
@@ -70,9 +70,8 @@ Code of Conduct
 </h1>
 
 <h3 align="left" style="margin-top: 0px;">
-The <a href="https://www.qubes-os.org/code-of-conduct/" target="_blank">Code of Conduct</a> is
-a collaborative, evolving document that attempts to transparently set out a
-public set of standards regarding appropriate conduct in the Qubes OS Project.
+This event is covered by the Qubes OS project
+<a href="https://www.qubes-os.org/code-of-conduct/" target="_blank">Code of Conduct</a>.
 </h3>
 
 <!--
@@ -102,17 +101,8 @@ public set of standards regarding appropriate conduct in the Qubes OS Project.
 -->
 ---
 <h1 align="Left" style="margin-top: 0px;">
-Social media and communication channels
+Social media
 </h1>
-
-<h2 align="Left" style="margin-top: 0px;">
-  <a href="https://matrix.to/#/#qubes-os-summit-2022:matrix.org" target="_blank">
-    <img src = "images/logo-matrix-element.svg" width="25px" />
-  </a>
-  <a href="https://matrix.to/#/#qubes-os-summit-2022:matrix.org" target="_blank">
-    Qubes OS summit 2022 - Official matrix channel
-  </a>
-</h2>
 
 <h2 align="Left" style="margin-top: 0px;">
   <a href="https://twitter.com/QubesOS" class="fa fa-twitter" target="_blank"></a>
@@ -126,6 +116,7 @@ Social media and communication channels
   <a href="https://www.reddit.com/user/3mdeb/" class="fa fa-reddit" target="_blank"></a>
   <a href="https://www.reddit.com/user/3mdeb/" target="_blank"> 3mdeb </a>
 </h2>
+
 ---
 
 <h1 align="Left" style="margin-top: 0px;">
