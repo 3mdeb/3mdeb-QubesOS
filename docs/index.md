@@ -19,7 +19,7 @@ Qubes OS summit 2022
 Date: 9th to 11th September 2022
 </h2>
 <h2 align="center" style="margin-top: 0px;">
-Location: TBA
+Location: TBA, Berlin
 </h2>
 
 ---
