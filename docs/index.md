@@ -36,9 +36,9 @@ CFP for Qubes OS summit 2022 is open!
 </h1>
 
 <h3 align="left" style="margin-top: 0px;">
-We are waiting for your submissions and suggestions for the talks.
-Please send a brief description (up to 300 characters) to
-<a href="mailto:cfp@3mdeb.com?subject=Qubes OS summit 2022, Talk proposal: <Your talk title>">cfp@3mdeb.com</a>
+We are waiting for your submissions and suggestions for the talks.<br>
+Please submit your proposal by 
+<a href="https://cfp.3mdeb.com/qubes-os-summit-2022/cfp">using a dedicated page</a>.<br>
 CFP closes on the <b>29th of August 2022</b>. Below is a list of suggested
 topics.
 </h3>
