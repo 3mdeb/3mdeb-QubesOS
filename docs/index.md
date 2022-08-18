@@ -122,6 +122,22 @@ Social media
 <h1 align="Left" style="margin-top: 0px;">
 Sponsors
 </h1>
+<div class="logo1">
+  <img src="images/1200px-Freedom_of_the_Press_Foundation_logo.svg.png">
+</div>
+<div class="row">
+  <div class="column">
+    <img src="images/Protectli-Logo.png">
+  </div>
+  <div class="column">
+    <img src="images/Transparent-PNG-logo-wordmark-1.png">
+  </div>
+</div>
+<div class="row">
+  <div class="column1">
+    <img src="images/nitrokey-logo.png">
+  </div>
+</div>
 
 <h3 align="left" style="margin-top: 0px;">
 Want to support the Qubes OS summit 2022?

@@ -9,3 +9,35 @@
 :root > * {
   --md-typeset-a-color:         #38d430;
 }
+
+.logo1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: auto;
+  padding: 20px;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  width: 50%;
+  padding: 30px;
+  align-items: center;
+}
+
+.column1 {
+  width: 50%;
+  padding: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.column2 {
+  width: 50%;
+  padding: 30px;
+}
+
