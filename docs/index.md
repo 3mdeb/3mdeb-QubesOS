@@ -61,7 +61,28 @@ Venue
 </h1>
 
 <h3 align="left" style="margin-top: 0px;">
-The event will take place in Berlin. The exact venue will be announced soon.
+The event will take place at <a href="https://co-up.de/about/" target="_blank">co.up Community</a>, accessible at <a href="https://www.openstreetmap.org/?mlat=52.5003&mlon=13.4198#map=16/52.5003/13.4198" target="_blank">Adalbertstraße 5-6, 10999 Berlin</a>.
+</h3>
+ 
+---
+
+<h1 align="left" style="margin-top: 0px;">
+Accessibility
+</h1>
+
+<h3 align="left" style="margin-top: 0px;">
+There is an elevator available to reach the venue (it is on the 3rd floor). The bathrooms are not wheelchair accessible, but nearby there are accessible bathrooms at Wilhelm Liebknecht/Namik Kemal Bibliothek, Möbel Olfe, and Südblock. More information at <a href="https://www.wheelmaps.org" target="_blank">Wheelmap.org</a>
+</h3>
+
+---
+
+<h1 align="left" style="margin-top: 0px;">
+Hygiene and Safety Guidelines
+</h1>
+
+<h3 align="left" style="margin-top: 0px;">
+
+The event space is a 2G+ space, please familiarize yourself with the <a href="https://co-up.de/hygiene-safety-guidelines/" target="_blank">Hygiene and Safety Guidelines</a>. We will have masks and antigen tests available to event participants should you want one.  
 </h3>
 
 ---
@@ -71,7 +92,7 @@ Code of Conduct
 
 <h3 align="left" style="margin-top: 0px;">
 This event is covered by the Qubes OS project
-<a href="https://www.qubes-os.org/code-of-conduct/" target="_blank">Code of Conduct</a>.
+<a href="https://www.qubes-os.org/code-of-conduct/" target="_blank">Code of Conduct</a>. Should you have any questions or concerns, please reach out to the event organizers or via email with the CoC team.
 </h3>
 
 <!--
