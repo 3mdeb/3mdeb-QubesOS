@@ -82,8 +82,25 @@ Hygiene and Safety Guidelines
 
 <h3 align="left" style="margin-top: 0px;">
 
-The event space is a 2G+ space, please familiarize yourself with the <a href="https://co-up.de/hygiene-safety-guidelines/" target="_blank">Hygiene and Safety Guidelines</a>. We will have masks and antigen tests available to event participants should you want one.  
-</h3>
+The event space is a 2G+ space, please familiarize yourself with the <a
+href="https://co-up.de/hygiene-safety-guidelines/" target="_blank">Hygiene and
+Safety Guidelines</a>. We will have masks and antigen tests available to event
+participants should you want one.</h3>
+
+---
+
+<h1 align="left" style="margin-top: 0px;">
+Registration form
+</h1>
+
+<h3 align="left" style="margin-top: 0px;">
+Please fill the <a
+href="https://cloud.3mdeb.com/index.php/apps/forms/Y7Mb7LHLmXWspY4o" target="_blank">online form</a>, if you would like to attend.
+
+The number of participants is limited, so
+filling out the form does not guarantee participation. Check your mailbox for a
+confirmation email.</h3>
+
 
 ---
 <h1 align="left" style="margin-top: 0px;">
