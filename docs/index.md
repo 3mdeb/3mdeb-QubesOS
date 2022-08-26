@@ -172,7 +172,10 @@ Sponsors
   </div>
 </div>
 <div class="row">
-  <div class="column1">
+  <div class="column">
+    <img src="images/arc-compute-logo.png">
+  </div>
+  <div class="column">
     <img src="images/nitrokey-logo.png">
   </div>
 </div>
