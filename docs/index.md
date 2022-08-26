@@ -7,7 +7,7 @@ hide:
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <p align="center" style="margin-bottom: 0px !important;">
-  <img width="800" src="../images/poster.png" alt="Qubes minisummit 2022 poster" align="center">
+  <img width="800" src="../images/QubesOS_2022.png" alt="Qubes minisummit 2022 poster" align="center">
   </p>
 <br>
 
