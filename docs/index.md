@@ -178,6 +178,9 @@ Sponsors
   <div class="column">
     <img src="images/nitrokey-logo.png">
   </div>
+    <div class="column">
+    <img src="images/nlnet-logo.png">
+  </div>
 </div>
 
 <h3 align="left" style="margin-top: 0px;">
