@@ -36,7 +36,7 @@ hide:
 ---
 
 <h1 align="left" style="margin-top: 0px;">
-CFP for Qubes OS summit 2022 is now closed.
+CFP for Qubes OS summit 2022 is now closed
 </h1>
 
 <h3 align="left" style="margin-top: 0px;">
