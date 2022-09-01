@@ -28,31 +28,19 @@ hide:
   <a href="static/qubes-summit-2022.ics">iCal</a> /
   <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MXRiN3U0MmplbzdkM2lwamdiYzc4Zm84b2UgZXZlbnRzQDNtZGViLmNvbQ&tmsrc=events%403mdeb.com" target="_blank">Google</a>
 </h2>
+<h2 align="left" style="margin-top: 0px;">
+  <b>Schedule</b>
+  <a href="https://cfp.3mdeb.com/qubes-os-summit-2022/schedule/#" target="_blank">Click to see full schedule</a>
+</h2>
 
 ---
 
 <h1 align="left" style="margin-top: 0px;">
-CFP for Qubes OS summit 2022 is open!
+CFP for Qubes OS summit 2022 is now closed.
 </h1>
 
 <h3 align="left" style="margin-top: 0px;">
-We are waiting for your submissions and suggestions for the talks.<br>
-Please submit your proposal by 
-<a href="https://cfp.3mdeb.com/qubes-os-summit-2022/cfp">using a dedicated page</a>.<br>
-CFP closes on the <b>29th of August 2022</b>. Below is a list of suggested
-topics.
-</h3>
-
-<h3 align="left" style="margin-top: 0px;">
-  <ul>
-    <li>UI/UX</li>
-    <li>Hardware</li>
-    <li>Developers (Qubes internals)</li>
-    <li>Security features</li>
-    <li>App VMs</li>
-    <li>Other Qubes OS related topics</li>
-  </ul>
-</h3>
+Thank you for all your submissions!
 
 ---
 
@@ -112,31 +100,18 @@ This event is covered by the Qubes OS project
 <a href="https://www.qubes-os.org/code-of-conduct/" target="_blank">Code of Conduct</a>. Should you have any questions or concerns, please reach out to the event organizers or via email with the CoC team.
 </h3>
 
-<!--
----
-
-<h1 align="center" style="margin-top: 0px;">CFP</h1>
 
 ---
+  
+<h1 align="left" style="margin-top: 0px;">
+Qubes OS Summit Schedule
+</h1>
 
-<h3 align="center" style="margin-top: 0px;">Qubes OS Summit schedule</h3>
+<h3 align="left" style="margin-top: 0px;">
+The full schedule is available at: https://cfp.3mdeb.com/qubes-os-summit-2022/schedule/
 <center>
 
-| Time [UTC]  | Description                          |
-| ----------- | ------------------------------------ |
-| **15:30 - 15:50** | |
-| **15:50 - 16:00** | |
-| **16:00 - 16:10** | |
-| **16:10 - 16:30** | |
-| **16:30 - 17:00** | |
-| **17:00 - 17:10** | |
-| **17:10 - 17:30** | |
-| **17:30 - 18:00** | |
-| **18:00 - 18:10** | |
-| **18:10 - 18:30** | |
-| **18:30 - last <i>haker</i> standing** | |
-
--->
+ 
 ---
 <h1 align="Left" style="margin-top: 0px;">
 Social media
