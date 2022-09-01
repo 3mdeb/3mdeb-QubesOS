@@ -30,7 +30,7 @@ hide:
 </h2>
 <h2 align="left" style="margin-top: 0px;">
   <b>Schedule:</b>
-  <a href="https://cfp.3mdeb.com/qubes-os-summit-2022/schedule/#" target="_blank">available here</a>
+  <a href="https://cfp.3mdeb.com/qubes-os-summit-2022/schedule/#" target="_blank">Qubes OS summit 2022 Schedule</a>
 </h2>
 
 ---
@@ -109,8 +109,8 @@ Qubes OS Summit Schedule
 </h1>
 
 <h3 align="left" style="margin-top: 0px;">
-The full schedule is available at: https://cfp.3mdeb.com/qubes-os-summit-2022/schedule/
-<center>
+The full schedule is available at: <a href="https://cfp.3mdeb.com/qubes-os-summit-2022/schedule/" target="_blank">https://cfp.3mdeb.com/qubes-os-summit-2022/schedule/</a>
+</h3>
 
  
 ---
