@@ -29,8 +29,8 @@ hide:
   <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MXRiN3U0MmplbzdkM2lwamdiYzc4Zm84b2UgZXZlbnRzQDNtZGViLmNvbQ&tmsrc=events%403mdeb.com" target="_blank">Google</a>
 </h2>
 <h2 align="left" style="margin-top: 0px;">
-  <b>Schedule</b>
-  <a href="https://cfp.3mdeb.com/qubes-os-summit-2022/schedule/#" target="_blank">Click to see full schedule</a>
+  <b>Schedule:</b>
+  <a href="https://cfp.3mdeb.com/qubes-os-summit-2022/schedule/#" target="_blank">available here</a>
 </h2>
 
 ---
@@ -41,6 +41,7 @@ CFP for Qubes OS summit 2022 is now closed.
 
 <h3 align="left" style="margin-top: 0px;">
 Thank you for all your submissions!
+</h3>
 
 ---
 
