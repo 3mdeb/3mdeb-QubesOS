@@ -123,12 +123,12 @@ Recording & streaming
   
 The conference will be a hybrid. What does it mean?
 
-The lectures will be broadcasted live via 3mdeb's YouTube channel to the community.
+The lectures will be broadcasted live via <a href="https://www.youtube.com/channel/UC_djHbyjuJvhVjfT18nyqmQ" target="_blank">3mdeb's YouTube channel</a> to the community.
 
 The live presentation will be streamed and recorded, unless the speaker wish to opt out.
 In that case, there is an option to present the lecture off-camera during the second day. 
 
-If the presenter will not be in Berlin but want to give a lecture, the talk can be prerecorded.
+If the presenter will not be in Berlin but want to give a lecture, the talk can be pre-recorded.
 </h3>
 
  
