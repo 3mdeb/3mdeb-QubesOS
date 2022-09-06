@@ -114,6 +114,25 @@ The full schedule is available at: <a href="https://cfp.3mdeb.com/qubes-os-summi
 
  
 ---
+
+<h1 align="left" style="margin-top: 0px;">
+Recording & streaming
+</h1>
+
+<h3 align="left" style="margin-top: 0px;">
+  
+The conference will be a hybrid. What does it mean?
+
+The lectures will be broadcasted live via 3mdeb's YouTube channel to the community.
+
+The live presentation will be streamed and recorded, unless the speaker wish to opt out.
+In that case, there is an option to present the lecture off-camera during the second day. 
+
+If the presenter will not be in Berlin but want to give a lecture, the talk can be prerecorded.
+</h3>
+
+ 
+---
 <h1 align="Left" style="margin-top: 0px;">
 Social media
 </h1>
